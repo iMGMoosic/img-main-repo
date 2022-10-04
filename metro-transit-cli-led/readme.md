@@ -14,7 +14,7 @@ The Metro Transit CLI Tool is an unofficial Python 3.10 tool to pull Metro Trans
 
 - requests
 
-You can install requirements by either running the Python script (the script attempts to install dependencies if import fails) or by using pip on the command-lie
+You can install requirements by either running the Python script (the script attempts to install dependencies if import fails) or by using pip on the command-line
 
 ```bash
 pip install requests

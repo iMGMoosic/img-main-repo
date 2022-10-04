@@ -47,6 +47,7 @@ Disregard this section for now, as the RGBMatrix implementation hasn't been fini
 You can configure the LED matrix with the same flags used in the [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) library. More information on these arguments can be found in the library documentation.
 
 | Flag                     | Description                                                                                                                                         | Default Value    |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | --led-rows               | Display rows. 16 for 16x32, 32 for 32x32                                                                                                            | 32               |
 | --led-cols               | Panel columns. Typically 32 or 64                                                                                                                   | 32               |
 | --led-chain              | Daisy-chained boards                                                                                                                                | 1                |

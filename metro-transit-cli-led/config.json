@@ -1,0 +1,11 @@
+{
+	"preferred": {
+		"preferred_routes": ["11", "18"],
+		"preferred_stops": ["17978"]
+	},
+	"settings": {
+		"refresh_rate_seconds": 60,
+		"print_delay": true,
+		"print_delayed_departure": true
+	}
+}
